@@ -9,5 +9,6 @@ public class DimeTuNombre {
     System.out.print("Por favor, dime cómo te llamas: ");
     nombre = System.console().readLine();
     System.out.println("Hola " + nombre + ", ¡encantado de conocerte!");
+    //da error al ejecutar
   }
 }
